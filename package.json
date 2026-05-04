@@ -1,0 +1,6 @@
+{
+  "name": "agent-bryn-quiz-de-conocimientos-generale-morivpga",
+  "version": "1.0.0",
+  "description": "Proyecto de Bryn [Gen2]: quiz de conocimientos generales con puntuacion",
+  "main": "index.js"
+}
